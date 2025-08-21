@@ -6,9 +6,9 @@ We believe in a future where:
 - **Games become alternate lives**, as meaningful as the one we wake into.  
 
 ### 🌌 Our First Worlds
-- 🚀 **[Moonbase](https://moondoge.ai/)** – Mine + Survive game on Solana.  
-- 🌊 **[Flowbay](https://flowbay.ai/)** – NFT and gaming assets marketplace for creators & gamers on Sui Network.  
-- 🐉 **[DragonHive](https://degenhive.ai/)** – Gamified DeFi + gaming NFTs with native BTC yield on Sui Network.
+- 🚀 **<a href="https://moondoge.ai/" target="_blank">Moonbase</a>** – Mine + Survive game on Solana.  
+- 🌊 **<a href="https://flowbay.ai/" target="_blank">Flowbay</a>** – NFT and gaming assets marketplace for creators & gamers on Sui Network.  
+- 🐉 **<a href="https://degenhive.ai/" target="_blank">DragonHive</a>** – Gamified DeFi + gaming NFTs with native BTC yield on Sui Network.
 
 ### 🌍 Why
 Because **life and dream are not so different**— and in this dream, the economy belongs to the dreamers.  
@@ -16,7 +16,7 @@ Because **life and dream are not so different**— and in this dream, the econom
 ---
 
 👤 **Founder**: Rahul Mittal  
-- GitHub: [@rahulmittal](https://github.com/SunshineRider)  
-- X: [@rahulmittal](https://x.com/sunshinerider_)  
-- LinkedIn: [@rahulmittal](https://www.linkedin.com/in/rahul-mittal4233/)  
+- GitHub: <a href="https://github.com/SunshineRider" target="_blank">@rahulmittal</a>  
+- X: <a href="https://x.com/sunshinerider_" target="_blank">@rahulmittal</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/rahul-mittal4233/" target="_blank">@rahulmittal</a>  
 - Email: pretentiouspunjabiguy@gmail.com  
