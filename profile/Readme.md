@@ -1,14 +1,9 @@
-# LifeOrDream ✨
+# LifeOrDream ⛩️
 
 We build **on-chain game economies** and the tooling to run them.  
 Focus areas: DeFi primitives, programmable NFTs, and AI-assisted creation on **Solana** and **Sui**.
 
-## 🎯 Our Thesis
-
-- **Property rights for digital goods matter.** Tokens and NFTs are coordination tools, not collectibles.
-- **Composability is the edge.** Systems should interoperate across games and clients.
-- **Performance first.** Design for high-throughput chains and clean operational paths.
-- **AI shortens build cycles.** Use models to prototype content and balance economies; keep the rules on-chain.
+- Our Thesis: **Property rights for digital goods matter.** Tokens and NFTs are coordination tools, not collectibles.
 
 ## 🚀 What We Ship
 
@@ -16,7 +11,7 @@ Focus areas: DeFi primitives, programmable NFTs, and AI-assisted creation on **S
 - **Programmable NFTs:** DNA/genes, breeding, and evolution as first-class state
 - **Creator tools:** no-code modules and templates; SDKs and indexers for Solana/Sui
 
-## 🌌 Our Projects
+## Our Projects
 
 - **<a href="https://honeyplay.ai/" target="_blank">HoneyPlay</a>** (Sui) – Trading infrastructure for games: marketplace + AMMs; token_rules with per-action burn-tax; creator rewards; no-code builder backed by a 256-bit Genes Library.
 
