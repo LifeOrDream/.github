@@ -1,8 +1,5 @@
 # LifeOrDream ⛩️
 
-We build **on-chain game economies** and the tooling to run them.  
-Focus areas: DeFi primitives, programmable NFTs, and AI-assisted creation on **Solana** and **Sui**.
-
  Infrastructure for **player-owned game economies**.                                                                                                                                                                                                                                                                      
   We build the economic layer that turns on-chain games into **self-sustaining economies** — programmable tokens with enforced tax policies, tax-aware AMMs, DNA-driven NFTs, and staking systems where every player action feeds back into the system.
 
