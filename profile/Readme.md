@@ -9,5 +9,3 @@ The bigger picture: on-chain games that don't just have an economy and a communi
 ---
 
 💬 **Need Solana / AI dev work?** Reach out on Telegram — [@Sunshine_Rider](https://t.me/Sunshine_Rider)
-
-👤 **Founder**: Rahul Mittal · <a href="https://x.com/sunshinerider_" target="_blank">@sunshinerider_</a> · gm@lifeordream.ai
